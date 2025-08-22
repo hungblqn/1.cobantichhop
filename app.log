@@ -1,0 +1,105 @@
+2025-08-19T11:54:41.572Z [INFO] Server đang chạy tại http://localhost:3000
+2025-08-19T11:58:13.572Z [INFO] Nhận dữ liệu từ Jotform: undefined
+2025-08-19T11:58:13.573Z [ERROR] Lỗi gửi sang Bitrix24: Cannot read properties of undefined (reading 'name')
+2025-08-19T11:59:35.041Z [INFO] Nhận dữ liệu từ Jotform: undefined
+2025-08-19T11:59:35.042Z [ERROR] Lỗi gửi sang Bitrix24: Cannot read properties of undefined (reading 'name')
+2025-08-19T11:59:43.925Z [INFO] Server đang chạy tại http://localhost:3000
+2025-08-19T11:59:59.056Z [INFO] Nhận dữ liệu từ Jotform: undefined
+2025-08-19T12:01:14.092Z [INFO] Server đang chạy tại http://localhost:3000
+2025-08-19T12:01:26.268Z [INFO] Nhận dữ liệu từ Jotform: {
+  "action": "",
+  "webhookURL": "https://707c9d213e7a.ngrok-free.app/webhook",
+  "username": "viethungblqn",
+  "formID": "252303493156050",
+  "type": "WEB",
+  "customParams": "",
+  "product": "",
+  "formTitle": "Form",
+  "customTitle": "",
+  "submissionID": "6314140853121729803",
+  "event": "",
+  "documentID": "",
+  "teamID": "",
+  "subject": "",
+  "isSilent": "",
+  "customBody": "",
+  "rawRequest": "{\"slug\":\"submit\\/252303493156050\",\"jsExecutionTracker\":\"build-date-1755604878631=>init-started:1755604879056=>validator-called:1755604879061=>validator-mounted-false:1755604879061=>init-complete:1755604879064=>onsubmit-fired:1755604885105=>observerSubmitHandler_received-submit-event:1755604885105=>submit-validation-passed:1755604885109=>observerSubmitHandler_validation-passed-submitting-form:1755604885114\",\"submitSource\":\"form\",\"submitDate\":\"1755604885114\",\"buildDate\":\"1755604878631\",\"uploadServerUrl\":\"https:\\/\\/upload.jotform.com\\/upload\",\"eventObserver\":\"1\",\"q3_fullname\":\"L\\u00f4 Vi\\u1ec7t H\\u00f9ng\",\"q5_phoneNumber\":{\"full\":\"0921945112\"},\"q6_email\":\"hungblqn@hotmail.com\",\"event_id\":\"1755604879056_252303493156050_5XXnVUz\",\"timeToSubmit\":\"6\",\"validatedNewRequiredFieldIDs\":\"{\\\"new\\\":1,\\\"id_3\\\":\\\"L\\u00f4\\\",\\\"id_5\\\":\\\"09\\\",\\\"id_6\\\":\\\"hu\\\"}\",\"path\":\"\\/submit\\/252303493156050\"}",
+  "fromTable": "",
+  "appID": "",
+  "pretty": "Fullname:Lô Việt Hùng, Phone Number:0921945112, Email:hungblqn@hotmail.com",
+  "unread": "",
+  "parent": "",
+  "ip": "1.54.210.213"
+}
+2025-08-19T12:01:27.058Z [INFO] Tạo Contact thành công: {"result":3,"time":{"start":1755604886.702062,"finish":1755604886.977455,"duration":0.275393009185791,"processing":0.2376401424407959,"date_start":"2025-08-19T15:01:26+03:00","date_finish":"2025-08-19T15:01:26+03:00","operating_reset_at":1755605486,"operating":0.5873370170593262}}
+2025-08-19T12:04:01.442Z [INFO] Nhận dữ liệu từ Jotform: {
+  "action": "",
+  "webhookURL": "https://707c9d213e7a.ngrok-free.app/webhook",
+  "username": "viethungblqn",
+  "formID": "252303493156050",
+  "type": "WEB",
+  "customParams": "",
+  "product": "",
+  "formTitle": "Form",
+  "customTitle": "",
+  "submissionID": "6314142403125446582",
+  "event": "",
+  "documentID": "",
+  "teamID": "",
+  "subject": "",
+  "isSilent": "",
+  "customBody": "",
+  "rawRequest": "{\"slug\":\"submit\\/252303493156050\",\"jsExecutionTracker\":\"build-date-1755605028917=>init-started:1755605029285=>validator-called:1755605029290=>validator-mounted-false:1755605029290=>init-complete:1755605029293=>onsubmit-fired:1755605040066=>observerSubmitHandler_received-submit-event:1755605040066=>submit-validation-passed:1755605040071=>observerSubmitHandler_validation-passed-submitting-form:1755605040076\",\"submitSource\":\"form\",\"submitDate\":\"1755605040076\",\"buildDate\":\"1755605028917\",\"uploadServerUrl\":\"https:\\/\\/upload.jotform.com\\/upload\",\"eventObserver\":\"1\",\"q3_fullname\":\"L\\u00f4 Vi\\u1ec7t \\u00f9ng\",\"q5_phoneNumber\":{\"full\":\"0221945112\"},\"q6_email\":\"hungblqn@hotmail.com\",\"event_id\":\"1755605029285_252303493156050_MKx8GeL\",\"timeToSubmit\":\"10\",\"validatedNewRequiredFieldIDs\":\"{\\\"new\\\":1,\\\"id_3\\\":\\\"L\\u00f4\\\",\\\"id_5\\\":\\\"02\\\",\\\"id_6\\\":\\\"hu\\\"}\",\"path\":\"\\/submit\\/252303493156050\"}",
+  "fromTable": "",
+  "appID": "",
+  "pretty": "Fullname:Lô Việt ùng, Phone Number:0221945112, Email:hungblqn@hotmail.com",
+  "unread": "",
+  "parent": "",
+  "ip": "1.54.210.213"
+}
+2025-08-19T12:04:02.328Z [INFO] Tạo Contact thành công: {"result":5,"time":{"start":1755605041.846649,"finish":1755605042.207221,"duration":0.36057209968566895,"processing":0.2689788341522217,"date_start":"2025-08-19T15:04:01+03:00","date_finish":"2025-08-19T15:04:02+03:00","operating_reset_at":1755605641,"operating":0.5065779685974121}}
+2025-08-19T12:05:24.747Z [INFO] Server đang chạy tại http://localhost:3000
+2025-08-19T12:05:34.456Z [INFO] Nhận dữ liệu từ Jotform: {
+  "action": "",
+  "webhookURL": "https://707c9d213e7a.ngrok-free.app/webhook",
+  "username": "viethungblqn",
+  "formID": "252303493156050",
+  "type": "WEB",
+  "customParams": "",
+  "product": "",
+  "formTitle": "Form",
+  "customTitle": "",
+  "submissionID": "6314143333124441514",
+  "event": "",
+  "documentID": "",
+  "teamID": "",
+  "subject": "",
+  "isSilent": "",
+  "customBody": "",
+  "rawRequest": "{\"slug\":\"submit\\/252303493156050\",\"jsExecutionTracker\":\"build-date-1755605128721=>init-started:1755605129072=>validator-called:1755605129077=>validator-mounted-false:1755605129078=>init-complete:1755605129081=>onsubmit-fired:1755605133289=>observerSubmitHandler_received-submit-event:1755605133289=>submit-validation-passed:1755605133294=>observerSubmitHandler_validation-passed-submitting-form:1755605133298\",\"submitSource\":\"form\",\"submitDate\":\"1755605133298\",\"buildDate\":\"1755605128721\",\"uploadServerUrl\":\"https:\\/\\/upload.jotform.com\\/upload\",\"eventObserver\":\"1\",\"q3_fullname\":\"L\\u00f4 Vi\\u1ec7t H\\u00f9ng\",\"q5_phoneNumber\":{\"full\":\"0921945112\"},\"q6_email\":\"hungblqn@hotmail.com\",\"event_id\":\"1755605129072_252303493156050_IlbZlIv\",\"timeToSubmit\":\"4\",\"validatedNewRequiredFieldIDs\":\"{\\\"new\\\":1,\\\"id_3\\\":\\\"L\\u00f4\\\",\\\"id_5\\\":\\\"09\\\",\\\"id_6\\\":\\\"hu\\\"}\",\"path\":\"\\/submit\\/252303493156050\"}",
+  "fromTable": "",
+  "appID": "",
+  "pretty": "Fullname:Lô Việt Hùng, Phone Number:0921945112, Email:hungblqn@hotmail.com",
+  "unread": "",
+  "parent": "",
+  "ip": "1.54.210.213"
+}
+2025-08-19T12:05:34.458Z [INFO] Dữ liệu parse từ rawRequest: {
+  "slug": "submit/252303493156050",
+  "jsExecutionTracker": "build-date-1755605128721=>init-started:1755605129072=>validator-called:1755605129077=>validator-mounted-false:1755605129078=>init-complete:1755605129081=>onsubmit-fired:1755605133289=>observerSubmitHandler_received-submit-event:1755605133289=>submit-validation-passed:1755605133294=>observerSubmitHandler_validation-passed-submitting-form:1755605133298",
+  "submitSource": "form",
+  "submitDate": "1755605133298",
+  "buildDate": "1755605128721",
+  "uploadServerUrl": "https://upload.jotform.com/upload",
+  "eventObserver": "1",
+  "q3_fullname": "Lô Việt Hùng",
+  "q5_phoneNumber": {
+    "full": "0921945112"
+  },
+  "q6_email": "hungblqn@hotmail.com",
+  "event_id": "1755605129072_252303493156050_IlbZlIv",
+  "timeToSubmit": "4",
+  "validatedNewRequiredFieldIDs": "{\"new\":1,\"id_3\":\"Lô\",\"id_5\":\"09\",\"id_6\":\"hu\"}",
+  "path": "/submit/252303493156050"
+}
+2025-08-19T12:05:35.065Z [INFO] Tạo Contact thành công: {"result":7,"time":{"start":1755605134.882855,"finish":1755605134.988423,"duration":0.10556817054748535,"processing":0.08530497550964355,"date_start":"2025-08-19T15:05:34+03:00","date_finish":"2025-08-19T15:05:34+03:00","operating_reset_at":1755605734,"operating":0.5065779685974121}}
